@@ -15,3 +15,7 @@ Given the Path Instructions above, programmatically parse the instructions and d
 - Provide any needed instructions to run program.
 - Do not round to the nearest step.
 - After program executes the answer should be returned.
+
+## Instructions to run the program:
+- You can run the program by entering `python .\AdventureJourney.py` in the terminal when you are in the project directory.
+- Alternatively if you are using something like VSCode, you can use the debugging tools to run the `AdventureJourney.py` file
