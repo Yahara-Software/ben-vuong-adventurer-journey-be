@@ -31,4 +31,4 @@ def calculate_journey_distance_from_path_string(pathStr):
 
     return math.sqrt(horizontalTotal * horizontalTotal + verticalTotal * verticalTotal)
 
-print("Straight line distance from start to end of path:", calculate_journey_distance_from_path_string("15F6B6B5L16R8B16F20L6F13F11R"))
+print("Straight line distance from start to end of path:", calculate_journey_distance_from_path_string("15F6B6B5L16R8B16F20L6F13F11R"), "steps")
